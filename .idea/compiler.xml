@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ReefBungee" />
+        <module name="ReefCore" />
+        <module name="ReefCreative" />
+        <module name="ReefFaction" />
+        <module name="ReefPrison" />
+        <module name="ReefSound" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ReefBungee" target="1.7" />
+      <module name="ReefCore" target="1.7" />
+      <module name="ReefCreative" target="1.7" />
+      <module name="ReefFaction" target="1.7" />
+      <module name="ReefHub" target="1.7" />
+      <module name="ReefPrison" target="1.7" />
+      <module name="ReefSound" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

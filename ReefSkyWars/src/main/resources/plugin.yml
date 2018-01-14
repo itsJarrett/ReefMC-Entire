@@ -1,0 +1,4 @@
+name: ReefSkyWars
+main: com.reefmc.reefskywars.ReefSkyWars
+version: ${project.version}
+author: stuntguy3000

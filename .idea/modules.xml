@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ReefBungee/ReefBungee.iml" filepath="$PROJECT_DIR$/ReefBungee/ReefBungee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReefCore/ReefCore.iml" filepath="$PROJECT_DIR$/ReefCore/ReefCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReefCreative/ReefCreative.iml" filepath="$PROJECT_DIR$/ReefCreative/ReefCreative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReefFaction/ReefFaction.iml" filepath="$PROJECT_DIR$/ReefFaction/ReefFaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReefPrison/ReefPrison.iml" filepath="$PROJECT_DIR$/ReefPrison/ReefPrison.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReefSound/ReefSound.iml" filepath="$PROJECT_DIR$/ReefSound/ReefSound.iml" />
+    </modules>
+  </component>
+</project>

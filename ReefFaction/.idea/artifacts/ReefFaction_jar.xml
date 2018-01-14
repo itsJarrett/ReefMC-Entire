@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ReefFaction:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ReefFaction_jar</output-path>
+    <root id="archive" name="ReefFaction.jar">
+      <element id="module-output" name="ReefFaction" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>
